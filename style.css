@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+}
+
+
+body {
+    background: #09090A;
+    color: #ffffff;
+
+    display: grid;
+    place-items: center;
+
+    height: 50vh;
+    
+}
